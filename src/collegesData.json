@@ -1,0 +1,21 @@
+[
+    { "name": "College 1", "rating": 4.5, "fees": 10000, "userRating": 4.8, "featured": true },
+    { "name": "College 2", "rating": 4.2, "fees": 12000, "userRating": 4.5, "featured": false },
+    { "name": "College 3", "rating": 4.8, "fees": 15000, "userRating": 4.9, "featured": true },
+    { "name": "College 4", "rating": 4.0, "fees": 8000, "userRating": 4.2, "featured": false },
+    { "name": "College 5", "rating": 4.7, "fees": 11000, "userRating": 4.6, "featured": true },
+    { "name": "College 6", "rating": 4.3, "fees": 13000, "userRating": 4.4, "featured": false },
+    { "name": "College 7", "rating": 4.6, "fees": 9000, "userRating": 4.7, "featured": true },
+    { "name": "College 8", "rating": 4.1, "fees": 14000, "userRating": 4.3, "featured": false },
+    { "name": "College 9", "rating": 4.9, "fees": 9500, "userRating": 4.9, "featured": true },
+    { "name": "College 10", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 11", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 12", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 13", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 14", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 15", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 16", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 17", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false },
+    { "name": "College 18", "rating": 4.4, "fees": 11500, "userRating": 4.5, "featured": false }
+  ]
+  
